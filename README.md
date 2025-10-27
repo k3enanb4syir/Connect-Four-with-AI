@@ -1,9 +1,5 @@
 # Connect 4 with AI
-Group 3 Members: 
-Muhammad Keenan Basyir
-Raihan Yudhistra Hartawan
-Fayyadh Dhia Abyan
-Marvel Maliq Prabawa
+# Group 3 Members: Muhammad Keenan Basyir, Raihan Yudhistra Hartawan, Fayyadh Dhia Abyan, Marvel Maliq Prabawa
 
 This is a classic Connect 4 game built in Python using the Pygame library. It features a graphical user interface (GUI) and a challenging AI opponent that uses the Minimax algorithm with alpha-beta pruning to determine its moves.
 
