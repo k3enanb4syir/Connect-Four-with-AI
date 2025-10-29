@@ -1,4 +1,4 @@
-# Connect 4 with AI
+# Connect 4 with AI 🔴🟡
 
 ## Group 3 Members: 
 1. Muhammad Keenan Basyir
