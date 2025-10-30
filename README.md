@@ -1,4 +1,4 @@
-# Connect 4 with AI 🔴🟡
+# 🔴🟡 Connect 4 with AI 🎮🤖
 
 ## Group 3 Members: 
 1. Muhammad Keenan Basyir
@@ -8,14 +8,14 @@
 
 This is a classic Connect 4 game built in Python using the Pygame library. It features a graphical user interface (GUI) and a challenging AI opponent that uses the Minimax algorithm with alpha-beta pruning to determine its moves.
 
-## Features
+## ✨ Features
 
 * **Graphical Interface:** A clean, 2D game board rendered with Pygame.
 * **Human vs. AI:** Play as Player 1 (Red) against an AI opponent (Yellow).
 * **Unbeatable AI:** The AI uses the Minimax algorithm (set to a depth of 5) to find the optimal move, making it a challenging opponent.
 * **Simple Controls:** Just click the mouse in the column where you want to drop your piece.
 
-## Requirements
+## 🛠 Requirements
 
 The project requires the following Python libraries:
 
@@ -24,7 +24,7 @@ The project requires the following Python libraries:
 
 These are listed in the `requirements.txt` file.
 
-## Installation & Usage
+## 🚀 Installation & Usage
 
 There are two ways to run this project: using the setup script or manually.
 
@@ -77,7 +77,7 @@ If you prefer to set up the environment yourself:
     python3 connect4_with_ai.py
     ```
 
-## How to Play
+## 🕹 How to Play
 
 1.  The game window will open.
 2.  The game randomly decides who goes first (Player 1 or the AI).
@@ -87,7 +87,7 @@ If you prefer to set up the environment yourself:
 6.  The first player to get four of their pieces in a row (horizontally, vertically, or diagonally) wins.
 7.  The winner will be announced at the top of the screen, and the game will pause for 3 seconds before closing.
 
-## Files in This Repository
+## 📁 Files in This Repository
 
 * **`connect4_with_ai.py`**: The main Python script containing all the game logic, AI, and Pygame rendering.
 * **`requirements.txt`**: A list of the Python dependencies needed to run the game.
