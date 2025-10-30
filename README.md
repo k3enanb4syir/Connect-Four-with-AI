@@ -6,14 +6,14 @@
 3. Fayyadh Dhia Abyan 
 4. Marvel Maliq Prabawa
 
-This is a classic Connect 4 game built in Python using the Pygame library. It features a graphical user interface (GUI) and a challenging AI opponent that uses the Minimax algorithm with alpha-beta pruning to determine its moves.
+This is a classic Connect 4 game built in Python 🐍 using the Pygame library. It features a graphical user interface (GUI) and a challenging AI opponent that uses the Minimax algorithm with alpha-beta pruning to determine its moves.
 
 ## ✨ Features
 
-* **Graphical Interface:** A clean, 2D game board rendered with Pygame.
-* **Human vs. AI:** Play as Player 1 (Red) against an AI opponent (Yellow).
-* **Unbeatable AI:** The AI uses the Minimax algorithm (set to a depth of 5) to find the optimal move, making it a challenging opponent.
-* **Simple Controls:** Just click the mouse in the column where you want to drop your piece.
+* **🎨 Graphical Interface:** A clean, 2D game board rendered with Pygame.
+* **🙎‍♂️ Human vs. 🤖 AI:** Play as Player 1 (Red) against an AI opponent (Yellow).
+* **🧠 Unbeatable AI:** The AI uses the Minimax algorithm (set to a depth of 5) to find the optimal move, making it a challenging opponent.
+* **🖱️ Simple Controls:** Just click the mouse in the column where you want to drop your piece.
 
 ## 🛠 Requirements
 
@@ -43,12 +43,12 @@ The `setup.sh` script automates the entire process.
     ```
 
     This will:
-    * Create a Python virtual environment named `venv_connect4`.
-    * Activate the environment.
-    * Install the required packages from `requirements.txt`.
-    * Launch the game.
+    * ✅ Create a Python virtual environment named `venv_connect4`.
+    * ✅ Activate the environment.
+    * ✅ Install the required packages from `requirements.txt`.
+    * ✅ Launch the game.
 
-### 2. Manual Setup
+### 2. Manual Setup ⚙️
 
 If you prefer to set up the environment yourself:
 
